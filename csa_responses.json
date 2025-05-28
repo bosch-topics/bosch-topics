@@ -49,5 +49,10 @@
         "chunk_id": "0"
       }
     ]
+  },
+  {
+    "question": "ess",
+    "answer": "The requested information is not available in the retrieved data. Please try another query or topic.",
+    "context": []
   }
 ]
