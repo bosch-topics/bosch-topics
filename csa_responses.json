@@ -2657,5 +2657,10 @@
         "chunk_id": "0"
       }
     ]
+  },
+  {
+    "question": "Hey BGSW hello",
+    "answer": "Hello! \ud83d\ude0a How can I assist you today?",
+    "context": []
   }
 ]
